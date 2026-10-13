@@ -16,4 +16,6 @@ public final class General {
   public @NotNull String ping(final @Event @NotNull BatMRE e) {
     return "Pong! My ping is: **" + e.bat.getPing() + "ms**.";
   }
+
+  // You can add your own commands here.
 }

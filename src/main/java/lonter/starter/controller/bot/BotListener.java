@@ -7,6 +7,7 @@ import lonter.bat.batobjs.*;
 import org.jetbrains.annotations.NotNull;
 import org.springframework.stereotype.Component;
 
+// This class is completely optional, if you don't need it, you can safely remove it.
 @Component @AllArgsConstructor
 public final class BotListener extends BatListenerAdapter {
   @Override public void onMessageReceived(final @NotNull BatMRE e) { }
