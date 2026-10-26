@@ -1,10 +1,10 @@
-package lonter.starter.controller.commands;
+package it.lonter.starter.controller.commands;
 
-import lonter.bat.annotations.Command;
-import lonter.bat.annotations.CommandClass;
-import lonter.bat.annotations.help.Help;
-import lonter.bat.annotations.parameters.ats.Event;
-import lonter.bat.batobjs.BatMRE;
+import it.lonter.bat.annotations.Command;
+import it.lonter.bat.annotations.CommandClass;
+import it.lonter.bat.annotations.help.Help;
+import it.lonter.bat.annotations.parameters.ats.Event;
+import it.lonter.bat.batobjs.BatMRE;
 
 import org.jetbrains.annotations.NotNull;
 

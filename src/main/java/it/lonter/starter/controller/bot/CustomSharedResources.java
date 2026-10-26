@@ -1,6 +1,6 @@
-package lonter.starter.controller.bot;
+package it.lonter.starter.controller.bot;
 
-import lonter.bat.SharedResources;
+import it.lonter.bat.SharedResources;
 
 import org.jetbrains.annotations.NotNull;
 import org.springframework.core.env.Environment;

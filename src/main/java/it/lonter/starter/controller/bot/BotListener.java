@@ -1,8 +1,8 @@
-package lonter.starter.controller.bot;
+package it.lonter.starter.controller.bot;
 
 import lombok.AllArgsConstructor;
 
-import lonter.bat.batobjs.*;
+import it.lonter.bat.batobjs.*;
 
 import org.jetbrains.annotations.NotNull;
 import org.springframework.stereotype.Component;

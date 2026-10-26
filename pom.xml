@@ -13,13 +13,13 @@
 
   <groupId> lonter </groupId>
   <artifactId> starter </artifactId>
-  <version> 0.1 </version>
+  <version> 0.1.0 </version>
   <name> Starter </name>
   <description> Example on how a basic BAT project should look like. </description>
 
   <properties>
     <java.version> 25 </java.version>
-    <start-class> lonter.starter.Starter </start-class>
+    <start-class> it.lonter.starter.Starter </start-class>
   </properties>
 
   <dependencies>
@@ -29,9 +29,9 @@
     </dependency>
 
     <dependency>
-      <groupId> lonter </groupId>
+      <groupId> it.lonter </groupId>
       <artifactId> bat </artifactId>
-      <version> 0.1 </version>
+      <version> 0.1.1 </version>
     </dependency>
 
     <dependency>
@@ -41,9 +41,9 @@
     </dependency>
 
     <dependency>
-      <groupId> lonter </groupId>
+      <groupId> it.lonter </groupId>
       <artifactId> jfa </artifactId>
-      <version> 0.1 </version>
+      <version> 0.1.0 </version>
     </dependency>
 
     <dependency>

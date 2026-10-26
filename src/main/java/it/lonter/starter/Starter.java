@@ -1,4 +1,4 @@
-package lonter.starter;
+package it.lonter.starter;
 
 import org.jetbrains.annotations.NotNull;
 import org.springframework.boot.SpringApplication;
@@ -8,8 +8,8 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 
 @ComponentScan(basePackages = {
-  "lonter.starter", // <- Your actual package here.
-  "lonter.bat"
+  "it.lonter.starter", // <- Your actual package here.
+  "it.lonter.bat"
 })
 
 public class Starter {
